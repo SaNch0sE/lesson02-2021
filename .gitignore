@@ -1,0 +1,8 @@
+node_modules
+.env
+.vscode
+.DS_Store
+
+# file for test
+*.test.js
+!index.test.js
