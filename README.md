@@ -12,8 +12,5 @@ npm run start-net
 npm start
 
 # http get method test request 
-node run http-get-test
-
-# http post method test request
-node run http-post-test
+node run http-test
 ```

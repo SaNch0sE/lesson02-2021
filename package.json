@@ -4,11 +4,10 @@
   "description": "",
   "main": "http/index.js",
   "scripts": {
-    "start": "node http/index.js",
+    "start": "node http/server.js",
     "start-udp": "node udp/index.js",
     "start-net": "node net/index.js",
-    "http-get-test": "node http/client-get.js",
-    "http-post-test": "node http/client-post.js",
+    "http-client": "node http/client.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
